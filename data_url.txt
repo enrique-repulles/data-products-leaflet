@@ -1,0 +1,3 @@
+http://opendata-ajuntament.barcelona.cat/data/ca/dataset/accidents-gu-bcn
+
+http://opendata-ajuntament.barcelona.cat/data/dataset/e769eb9d-d778-4cd7-9e3a-5858bba49b20/resource/be253540-d3ec-418f-9b72-386492fa5269/download/2016_accidents_gu_bcn_.csv
